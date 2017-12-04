@@ -1,0 +1,13 @@
+ dbid   name                           
+ ------ ------------------------------ 
+      1 master                         
+ non visualizzato     2 tempdb                         
+ non visualizzato     3 model                          
+      4 CAP_TEST                       
+      5 ACT_CAP_SVIL                   
+      6 CAP_SVIL                       
+      7 MLC_CAP_SVIL                   
+      8 MLC_CAP_TEST                   
+      9 kyn_thr_auxdb                  
+     10 CAP_REPORT                     
+     11 SIF_TEST                       

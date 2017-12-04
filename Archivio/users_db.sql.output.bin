@@ -1,0 +1,125 @@
+ACT_CAP_SVIL
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+           3 INSTAL                                   3 MUREXDB                        
+           8 SIFinanza                                4 SIFinanza                      
+
+(3 rows affected)
+CAP_REPORT
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           3 INSTAL                                   3 MUREXDB                        
+           6 LIMITS                                   4 SIFinanza                      
+           8 SIFinanza                                5 ReadOnly                       
+          11 MXKPMG                                   1 dbo                            
+
+(4 rows affected)
+CAP_SVIL
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+           3 INSTAL                                   3 MUREXDB                        
+           8 SIFinanza                                4 SIFinanza                      
+          13 ReadOnly                                 5 ReadOnly                       
+
+(4 rows affected)
+CAP_TEST
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+           3 INSTAL                                   3 MUREXDB                        
+           8 SIFinanza                                4 SIFinanza                      
+
+(3 rows affected)
+MLC_CAP_REPORT
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           6 LIMITS                                   3 SIFinanza                      
+          11 MXKPMG                                   1 dbo                            
+
+(2 rows affected)
+MLC_CAP_REPORT@NEW
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+MLC_CAP_SVIL
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           6 LIMITS                                   1 dbo                            
+           8 SIFinanza                                3 SIFinanza                      
+
+(2 rows affected)
+MLC_CAP_SVIL@NEW
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+MLC_CAP_TEST
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           3 INSTAL                                   3 MUREXDB                        
+           6 LIMITS                                   1 dbo                            
+           8 SIFinanza                                4 SIFinanza                      
+
+(3 rows affected)
+MLC_CAP_TEST@NEW
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+SIF_TEST
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           8 SIFinanza                                1 dbo                            
+
+(1 row affected)
+dbccdb
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+kymx_dbadb
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           7 test                                     3 testxdb                        
+          14 test2                                    1 dbo                            
+
+(2 rows affected)
+master
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+           2 probe                                    3 probe                          
+
+(2 rows affected)
+model
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+sybsystemdb
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+           2 probe                                    3 probe                          
+
+(2 rows affected)
+sybsystemprocs
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)
+tempdb
+ suid        name                           uid         name                           
+ ----------- ------------------------------ ----------- ------------------------------ 
+           1 sa                                       1 dbo                            
+
+(1 row affected)

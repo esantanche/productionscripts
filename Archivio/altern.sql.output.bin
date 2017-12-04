@@ -1,0 +1,95 @@
+ACT_CAP_SVIL
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+CAP_REPORT
+ suid        altsuid     
+ ----------- ----------- 
+           7           3 
+          12          11 
+
+(2 rows affected)
+CAP_SVIL
+ suid        altsuid     
+ ----------- ----------- 
+          12           3 
+
+(1 row affected)
+CAP_TEST
+ suid        altsuid     
+ ----------- ----------- 
+          12           3 
+
+(1 row affected)
+MLC_CAP_REPORT
+ suid        altsuid     
+ ----------- ----------- 
+          12          11 
+
+(1 row affected)
+MLC_CAP_REPORT@NEW
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+MLC_CAP_SVIL
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+MLC_CAP_SVIL@NEW
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+MLC_CAP_TEST
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+MLC_CAP_TEST@NEW
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+SIF_TEST
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+dbccdb
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+kymx_dbadb
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+master
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+model
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+sybsystemdb
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+sybsystemprocs
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)
+tempdb
+ suid        altsuid     
+ ----------- ----------- 
+
+(0 rows affected)

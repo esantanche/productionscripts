@@ -1,0 +1,5215 @@
+-------------------------------------------------
+Thu Mar  4 11:51:11 NFT 2004
+Database            kyn_thr_auxdb
+Segmento            default
+Freespace in pagine 400
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr  1 01:56:59 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  2 01:48:33 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr  5 02:31:21 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr  6 01:56:48 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr  7 01:49:41 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr  8 01:50:55 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  9 02:06:24 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 150000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 14 14:49:13 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 100000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 15 13:00:38 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 100000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 21 01:55:56 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 100000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 26 09:39:24 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 100000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 26 12:00:47 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 100000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 29 16:46:27 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 60000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 30 02:08:40 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 60000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Mon May  3 02:04:05 DFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 60000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Tue May 25 15:26:28 DFT 2004
+Database            prova
+Segmento            prova
+Freespace in pagine 20000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Tue May 25 16:12:50 DFT 2004
+Database            prova
+Segmento            prova
+Freespace in pagine 20000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Tue May 25 16:13:33 DFT 2004
+Database            prova
+Segmento            prova
+Freespace in pagine 20000
+Last chance flag    0
+-------------------------------------------------
+-------------------------------------------------
+Wed May 26 15:26:23 DFT 2004
+Database            kyn_thr_auxdb
+Segmento            default
+Freespace in pagine 250
+Last chance flag    0
+Urgente             1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 26 15:26:31 DFT 2004
+Database            kyn_thr_auxdb
+Segmento            logsegment
+Freespace in pagine 24
+Last chance flag    1
+Urgente             0
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 23 18:24:11 DFT 2004
+Database            tempdb
+Segmento            logsegment
+Freespace in pagine 16
+Last chance flag    1
+Urgente             0
+-------------------------------------------------
+-------------------------------------------------
+Mon Aug  9 16:51:51 DFT 2004
+Database            DB
+Segmento            segm
+Freespace in pagine 2000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+Mon Aug  9 17:14:26 DFT 2004
+Mon Aug  9 17:14:26 DFT 2004
+Mon Aug  9 17:14:26 DFT 2004
+Database            kyn_thr_auxdb
+Segmento            logsegment
+Freespace in pagine 200
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+Database            kyn_thr_auxdb
+Segmento            default
+Freespace in pagine 250
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+Database            kyn_thr_auxdb
+Segmento            logsegment
+Freespace in pagine 16
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Sep 27 10:53:35 DFT 2004
+Database            MLC_CAP_TEST
+Segmento            default
+Freespace in pagine 75000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Sep 27 12:35:37 DFT 2004
+Database            MLC_CAP_TEST
+Segmento            default
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Thu Oct  7 18:26:16 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 160
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Thu Oct  7 18:35:01 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 232
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Thu Oct  7 18:35:26 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 232
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Thu Oct  7 18:36:45 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 304
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Thu Oct  7 18:38:27 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 376
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Oct 24 03:34:25 DFT 2004
+Database            dbccdb
+Segmento            default
+Freespace in pagine 2500
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 16:04:05 DFT 2004
+Mon Oct 25 16:04:05 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 520
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:19:02 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 520
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:19:09 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:22:37 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:23:05 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:23:26 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:24:44 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:25:46 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:26:04 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 17:26:37 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Oct 25 22:02:46 DFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Nov  7 03:30:18 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Nov  7 03:35:42 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Nov 14 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Nov 14 03:34:36 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 15 01:48:23 NFT 2004
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Nov 17 03:30:16 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Nov 17 03:37:08 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Nov 18 01:48:18 NFT 2004
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Nov 18 03:30:07 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Nov 18 03:36:22 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Nov 19 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Nov 19 03:36:15 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Nov 20 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Nov 20 03:36:29 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 22 01:48:00 NFT 2004
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 22 03:30:06 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 22 03:36:26 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Nov 23 03:30:13 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Nov 23 03:37:12 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Nov 24 03:30:13 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Nov 24 03:35:01 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Nov 25 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Nov 25 03:35:54 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Nov 26 03:30:13 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Nov 26 03:34:35 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Nov 27 03:30:13 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Nov 27 03:36:35 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Nov 28 03:51:51 NFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 29 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Nov 29 03:36:22 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Nov 30 03:30:09 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Nov 30 03:35:24 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec  1 03:30:10 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec  1 03:38:37 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec  2 03:30:09 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec  2 03:37:31 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec  3 03:30:11 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec  3 03:38:59 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec  4 03:30:25 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec  4 03:35:29 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Dec  5 03:50:46 NFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec  6 03:30:08 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec  6 03:37:09 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec  7 03:30:10 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec  7 03:38:29 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec  7 16:59:47 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec  7 17:10:23 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec  8 03:30:38 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec  8 03:40:01 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec  9 03:30:37 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec  9 03:37:33 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec  9 03:37:41 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 10 03:30:44 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 10 03:39:27 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 11 03:30:40 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 11 03:38:44 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Dec 12 04:02:43 NFT 2004
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 13 03:30:39 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 13 03:45:26 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 13 03:45:29 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 14 03:30:12 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 14 03:48:27 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 15 03:30:49 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 15 03:38:20 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 16 03:30:27 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 16 03:38:04 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 17 03:30:14 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 17 03:40:42 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 18 03:30:17 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 18 03:37:25 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 20 03:30:22 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 20 03:37:06 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 21 03:30:26 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 21 03:38:56 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 22 03:30:37 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 22 03:37:23 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 23 03:30:28 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 23 03:37:06 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 24 03:30:26 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 24 03:43:47 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 24 03:43:48 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 25 03:30:27 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Dec 25 03:36:10 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 27 03:30:17 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Dec 27 03:36:11 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 28 03:30:08 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Dec 28 03:36:20 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 29 03:30:20 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Dec 29 03:36:13 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 30 03:30:28 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Dec 30 03:37:48 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 31 03:30:22 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Dec 31 03:36:48 NFT 2004
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan  1 03:30:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan  1 03:36:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan  3 03:30:16 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan  3 03:36:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan  4 03:30:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan  4 03:35:22 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan  5 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan  5 03:36:38 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan  6 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan  6 03:36:04 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan  7 03:30:08 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan  7 03:35:53 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan  8 03:30:11 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan  8 03:35:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 10 03:30:20 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 10 03:37:29 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 11 03:30:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 11 03:37:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 11 03:37:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 12 03:30:16 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 12 03:38:54 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 13 03:30:10 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 13 03:38:24 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 14 03:30:11 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 14 03:40:37 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 15 03:30:24 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 15 03:38:57 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 15 03:39:00 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Jan 16 03:42:42 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jan 16 03:50:52 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jan 16 03:55:01 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jan 16 04:03:07 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jan 16 04:04:14 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 17 03:30:08 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 17 03:38:06 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 18 03:30:10 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 18 03:40:20 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 19 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 19 03:38:44 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 20 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 20 03:39:23 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 21 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 21 03:44:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 21 03:44:16 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 22 03:30:34 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 22 03:49:22 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 24 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 24 03:39:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 25 03:30:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jan 25 03:38:42 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 26 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jan 26 03:42:08 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 27 03:30:10 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jan 27 03:45:47 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 28 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jan 28 03:40:59 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 29 03:30:49 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 29 03:41:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jan 29 03:41:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 31 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jan 31 03:39:55 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb  1 03:30:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb  1 03:42:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb  2 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb  2 03:38:59 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb  3 03:30:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb  3 03:40:32 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb  4 03:30:10 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb  4 03:42:01 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb  5 03:30:31 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb  5 03:41:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb  7 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb  7 03:38:35 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb  8 03:30:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb  8 03:41:56 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb  9 03:30:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb  9 03:41:52 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 10 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 10 03:42:42 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 11 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 11 03:41:45 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 12 03:30:31 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 12 03:40:04 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 14 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 14 03:41:53 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb 15 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb 15 03:41:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb 15 03:41:16 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb 16 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb 16 03:40:39 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 17 03:30:32 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 17 03:41:25 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 18 03:30:41 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 18 03:46:31 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 19 03:30:48 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 19 03:45:13 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 20 03:55:22 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 20 04:04:18 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 21 03:30:28 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 21 03:40:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb 22 03:30:23 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Feb 22 03:41:08 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb 23 03:30:18 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Feb 23 03:41:39 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 24 03:30:36 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 24 03:42:47 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Feb 24 20:06:06 NFT 2005
+Database            CAP_SVIL
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 25 03:30:25 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 25 03:46:59 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Feb 25 10:46:17 NFT 2005
+Database            CAP_SVIL
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 26 03:30:42 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Feb 26 03:50:53 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 27 03:23:43 NFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 27 03:27:59 NFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 27 03:38:51 NFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 27 04:08:56 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Feb 27 04:18:50 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 28 03:30:33 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Feb 28 03:41:32 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar  1 03:30:35 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar  1 03:42:33 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  2 03:30:44 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  2 03:45:53 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  2 03:45:57 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  2 13:50:27 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  2 13:58:57 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar  3 03:30:19 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar  3 03:39:53 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar  4 03:30:29 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar  4 03:41:18 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar  5 03:30:33 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar  5 03:41:02 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar  7 03:30:28 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar  7 03:40:44 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar  7 03:40:46 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar  8 03:30:24 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar  8 03:42:25 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  9 03:30:19 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar  9 03:44:46 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 10 03:30:22 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 10 03:45:43 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 10 17:45:54 NFT 2005
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 11 03:30:08 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 11 03:46:54 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 12 03:30:32 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 12 03:42:48 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 14 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 14 03:45:37 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 15 03:30:30 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 15 03:40:07 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 16 03:30:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 16 03:44:16 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 17 03:30:15 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 17 03:45:40 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 18 03:30:14 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 18 03:45:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 19 03:30:39 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 19 03:46:00 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Mar 20 04:04:31 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Mar 20 04:09:29 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Mar 20 04:19:35 NFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 21 03:30:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 21 03:43:30 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 22 03:30:11 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 22 03:47:04 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 23 03:30:11 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 23 03:48:09 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 23 03:48:12 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 24 03:30:10 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 24 03:48:54 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 25 03:30:11 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Mar 25 03:49:17 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 26 03:30:35 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Mar 26 03:43:20 NFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 28 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Mar 28 03:42:18 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 29 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 29 03:44:42 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Mar 29 17:41:45 DFT 2005
+Database            kymx_dbadb
+Segmento            logsegment
+Freespace in pagine 88
+Last chance flag    1
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 30 03:30:23 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Mar 30 03:45:02 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 31 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Mar 31 03:46:55 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  1 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  1 03:49:37 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr  2 03:30:45 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr  2 03:42:28 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr  4 03:30:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr  4 03:46:08 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr  4 03:46:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr  5 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr  5 03:46:13 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr  6 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr  6 03:48:59 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr  7 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr  7 03:50:29 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  8 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  8 03:50:50 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr  8 14:24:44 DFT 2005
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr  9 03:30:28 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr  9 03:52:04 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Apr 10 04:21:07 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Apr 10 04:34:22 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 11 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 11 03:47:22 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 12 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 12 03:47:37 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 13 03:30:21 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 13 03:39:41 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 14 03:30:26 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 14 03:40:22 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 15 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 15 03:45:36 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 16 03:30:33 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 16 03:44:58 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Apr 17 04:11:37 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Apr 17 04:17:15 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Apr 17 04:27:28 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 18 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 18 03:43:58 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 19 03:30:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 19 03:46:02 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 20 03:30:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 20 03:47:21 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 21 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 21 03:45:08 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 22 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 22 03:46:40 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 23 03:30:43 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 23 03:43:58 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 25 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Apr 25 03:43:37 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 26 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 26 03:48:57 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Apr 26 03:48:57 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 27 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Apr 27 03:50:20 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 28 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Apr 28 03:49:50 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 29 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Apr 29 03:50:42 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 30 03:30:40 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Apr 30 03:44:33 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun May  1 03:28:26 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun May  1 03:35:16 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun May  1 03:35:54 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun May  1 03:48:06 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon May  2 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May  2 03:47:01 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May  3 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May  3 03:44:58 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May  4 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May  4 03:49:31 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May  5 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May  5 03:48:30 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May  6 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May  6 03:50:40 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May  7 03:30:39 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May  7 03:42:40 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun May  8 03:36:03 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun May  8 03:49:12 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon May  9 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May  9 03:48:07 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 10 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 10 03:50:32 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 10 03:50:32 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 11 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 11 03:50:30 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 12 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 12 03:48:55 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 13 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 13 03:51:52 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 13 03:51:54 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 14 03:31:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 14 03:44:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May 16 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May 16 03:48:39 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 17 03:30:13 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 17 03:51:35 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 18 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 18 03:50:59 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 19 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 19 03:50:29 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 20 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 20 03:49:45 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 20 03:49:48 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 21 03:30:30 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 21 03:47:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 21 18:14:05 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 21 18:25:07 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+Sun May 22 19:09:04 DFT 2005
+Sun May 22 19:09:04 DFT 2005
+Database            dbccdb
+Database            dbccdb
+Segmento            logsegment
+Segmento            logsegment
+Freespace in pagine 12500
+Freespace in pagine 12500
+Last chance flag    0
+Last chance flag    0
+Urgente             0
+Urgente             0
+Log action          1
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+Wed May 25 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed May 25 03:44:18 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 26 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu May 26 03:56:06 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 27 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri May 27 03:52:30 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 28 03:30:18 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat May 28 03:42:52 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May 30 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon May 30 03:47:36 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 31 03:30:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue May 31 03:53:45 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun  1 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun  1 03:50:25 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun  2 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun  2 03:52:52 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun  3 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun  3 03:54:07 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun  4 03:30:57 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun  4 03:47:08 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun  4 03:47:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun  6 03:30:17 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun  6 03:53:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun  7 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun  7 03:56:01 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun  8 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun  8 03:58:38 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun  9 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun  9 03:59:47 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 10 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 10 04:02:22 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 11 03:30:26 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 11 03:59:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 12 03:37:09 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 12 03:43:55 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 12 03:44:38 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 12 03:57:41 DFT 2005
+Database            CAP_SVIL
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 13 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 13 03:56:56 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 13 03:57:00 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 14 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 14 03:58:24 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 15 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 15 03:58:13 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 16 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 16 04:00:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 17 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 17 03:56:04 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 18 03:30:50 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 18 03:55:53 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 20 03:30:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 20 03:55:46 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 21 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 21 03:56:32 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 22 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 22 03:58:29 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 23 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 23 03:55:46 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 24 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jun 24 03:57:54 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 25 03:30:57 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jun 25 03:51:24 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 26 04:41:46 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 26 04:42:03 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jun 26 05:03:25 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 27 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jun 27 03:55:35 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 28 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jun 28 03:56:48 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 29 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jun 29 03:53:43 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 30 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jun 30 03:54:29 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul  1 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul  1 03:55:36 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul  2 03:30:59 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul  2 03:51:55 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul  2 03:52:08 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul  3 04:37:57 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul  3 04:45:04 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul  3 04:45:32 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul  3 05:00:43 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul  4 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul  4 03:54:59 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul  5 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul  5 03:56:07 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul  6 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul  6 04:01:22 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul  7 02:01:02 DFT 2005
+Database            CAP_SVIL
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul  7 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul  7 04:17:48 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul  8 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul  8 03:59:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul  8 03:59:13 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul  9 03:30:49 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul  9 03:50:28 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 04:36:05 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 04:42:55 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 04:43:36 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 04:43:58 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 200000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 05:01:56 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 325000
+Last chance flag    0
+Urgente             0
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Sun Jul 10 05:02:59 DFT 2005
+Database            CAP_TEST
+Segmento            default
+Freespace in pagine 250000
+Last chance flag    0
+Urgente             1
+Log action          0
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 11 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 11 03:54:53 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 12 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 12 04:00:15 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 12 04:00:17 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 13 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 13 04:01:37 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 14 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 14 04:07:47 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 14 04:07:54 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 15 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 15 04:07:03 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 16 03:30:48 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 16 03:53:30 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 18 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 18 03:57:42 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 19 01:59:20 DFT 2005
+Database            CAP_TEST
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 19 03:30:13 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 19 03:57:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 19 03:57:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 20 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 20 04:03:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 21 03:30:10 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 21 04:08:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 22 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 22 04:02:17 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 22 04:02:20 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 23 03:30:43 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 23 03:51:36 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 25 03:30:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 25 03:53:53 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Jul 25 03:53:54 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 26 03:30:12 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Jul 26 03:57:23 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 27 03:30:14 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Jul 27 04:00:44 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 28 03:30:09 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 28 04:03:16 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Thu Jul 28 04:03:19 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 29 03:30:11 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Fri Jul 29 04:04:45 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 30 07:01:28 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 30 07:28:33 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Sat Jul 30 07:28:38 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Aug  1 07:00:27 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Mon Aug  1 07:31:48 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Aug  2 01:55:58 DFT 2005
+Database            CAP_SVIL
+Segmento            logsegment
+Freespace in pagine 125000
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Aug  2 07:00:17 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Tue Aug  2 07:36:22 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Aug  3 07:00:37 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------
+-------------------------------------------------
+Wed Aug  3 07:36:28 DFT 2005
+Database            dbccdb
+Segmento            logsegment
+Freespace in pagine 12500
+Last chance flag    0
+Urgente             0
+Log action          1
+-------------------------------------------------

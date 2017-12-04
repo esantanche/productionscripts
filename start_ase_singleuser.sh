@@ -1,0 +1,46 @@
+#!/bin/sh
+#
+
+if [ $USER != sybase ] ; then
+   echo Eseguire come sybase
+   exit 0
+fi
+
+. /sis/SIS-AUX-Envsetting.Sybase.sh
+
+# Parametri ritornati da SIS-AUX-Envsetting.Sybase.sh
+# UTILITY_DIR
+# SAUSER
+# SAPWD
+# NOTSAUSER
+# NOTSAPWD
+# ASE_NAME
+# PATH_INSTALLDIR (/sybase/ASE-12_5/install)
+
+codice_ritorno=0
+
+echo "Doing: $PATH_INSTALLDIR/startserver -f $PATH_INSTALLDIR/RUN_$ASE_NAME"
+nohup $PATH_INSTALLDIR/startserver -f $PATH_INSTALLDIR/RUN_$ASE_NAME -m 2>&1 >/dev/null &
+errore=$?
+if [ $errore -ne 0 ] ; then
+   echo "Attenzione: codice di ritorno diverso da zero: " $errore
+   codice_ritorno=$errore
+fi
+sleep 20
+echo "Doing: $PATH_INSTALLDIR/startserver -f $PATH_INSTALLDIR/RUN_${ASE_NAME}_back"
+nohup $PATH_INSTALLDIR/startserver -f $PATH_INSTALLDIR/RUN_${ASE_NAME}_back 2>&1 >/dev/null &
+errore=$?
+if [ $errore -ne 0 ] ; then
+   echo "Attenzione: codice di ritorno diverso da zero: " $errore
+   codice_ritorno=$errore
+fi
+sleep 20
+echo Done
+echo
+echo "Nota: l'XP server non necessita di avvio, viene avviato automaticamente"
+echo "quando e' richiesto"
+echo "Il monitor server non e' utilizzato"
+echo
+exit $codice_ritorno
+
+

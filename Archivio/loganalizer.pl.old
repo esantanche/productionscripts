@@ -1,0 +1,50 @@
+#!/usr/bin/perl -w
+
+$path_file_errori = "/nagios_reps/Errori_nel_log_ASE";
+
+use IO::File;
+
+# Come argomento prendo il path del log ? Si me lo passera' uno script di lancio apposito
+$PATH_LOG = $ARGV[0];
+if (!defined($PATH_LOG)) {
+   print "usage: perl $0 <path del log>\n\n";
+   exit;
+}
+
+#####################
+### DA MIGLIORARE perche' perde delle righe al troncamento del log
+
+$log_file = new IO::File;
+
+for (;;) {
+   if ($log_file->open($PATH_LOG)) {
+      last;
+   } 
+   sleep(10);
+   #print "open non riuscita\n";
+}
+
+close $log_file;
+
+if (!$log_file->open("tail -f -n 0 " . $PATH_LOG . " |")) {
+#if (!$log_file->open("exec smart_tail.pl " . $PATH_LOG . " &   ")) {
+   print "Non riesco ad aprire il log dell\'ASE\n";
+   print "(by $0)\n";
+   exit 1
+}
+while (<$log_file>) { 
+   print $_; 
+   $trovato_err = (/Error:/ && !/1608/);
+   $trovato_err ||= (/Server is booting with all the option features disabled./);
+   $trovato_err ||= (/Deadlock/);
+   if ($trovato_err) {
+      #print "HO TROVATO UN ERRORE\n";
+      $err_file = new IO::File;
+      $err_file->open($path_file_errori,"a");
+      print $err_file $_;
+      close $err_file;
+   }
+};
+close $log_file;
+
+exit

@@ -1,0 +1,48 @@
+
+#****S/P* <Categoria>/<Descrizione>
+# NAME
+#    Item name plus a short description. 
+# USAGE
+#    How to use it. 
+# PURPOSE
+#    What does it do. 
+# HISTORY
+#    Who has done which changes and when. 
+# INPUTS
+#    What can we feed into it. 
+# OUTPUT
+#    What output is made. 
+# RETURN VALUE
+#    What do we get returned. 
+# EXAMPLE
+#    A clear example of the items use. 
+# NOTES
+#    Any annotations 
+# DIAGNOSTICS
+#    Diagnostic output. 
+# WARNINGS
+#    Warnings
+# ERRORS
+#    Errors
+# BUGS
+#    Known bugs. 
+# TODO
+#    What to implement next and ideas. 
+# SEE ALSO
+#    References to other functions, man pages, other documentation. 
+#***
+
+Categorie
+-------------------
+Load
+Dump
+Dbcc
+Bcp
+Trasf
+GestioneDB
+InfoDB
+Helpers
+Tools
+Messaging
+Loganalizing
+

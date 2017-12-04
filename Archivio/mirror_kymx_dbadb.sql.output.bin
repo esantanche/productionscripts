@@ -1,0 +1,6 @@
+Msg 5155, Level 16, State 1:
+Server 'MX1_DEV_2', Line 1:
+The command 'DISK MIRROR' cannot be executed since disk mirroring has been disabled. In order to enable disk mirroring, use: sp_configure 'disable disk mirroring',0 and restart the server.
+Msg 5155, Level 16, State 2:
+Server 'MX1_DEV_2', Line 1:
+The command 'DISK UNMIRROR' cannot be executed since disk mirroring has been disabled. In order to enable disk mirroring, use: sp_configure 'disable disk mirroring',0 and restart the server.

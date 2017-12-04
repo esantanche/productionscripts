@@ -1,0 +1,8 @@
+Per il csc:
+questo messaggio vi viene inviato perche' ieri Murex ha chiesto il ripristino di un database
+utilizzando un salvataggio effettuato durante la notte. Quindi il ripristino e' stato
+programmato per questa mattina in modo automatico.
+Il server e il database sui quali il ripristino e' stato effettuato sono indicati sopra.
+Questo messaggio vi arriva esclusivamente se il ripristino e' andato a buon fine.
+Potete inviare quindi conferma al cliente dell'avvenuto ripristino, ma potete anche, in
+caso di dubbi, attendere che il gruppo dba chiuda il ticket.

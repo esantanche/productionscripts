@@ -1,0 +1,17 @@
+centro_log_operazioni.sh
+checkpointalldb.sh
+db-singolo-space-report.sh
+dbccmx_singolodb.sh
+dumpmx_1shot_singolodb.sh
+dumpmx_singolodb_striped_multistripe.sh
+gestore_license_manager.sh
+grant-select-singolo-db.sh
+kill_all_pid.sh
+kill_all_sessions.sh
+kill_sessions.sh
+loadmx_in_crontab.sh
+loadmx_in_crontab_striped.multistripe.sh
+loganalizer-runner.sh
+reorgmx_singolodb.sh
+start_ase.sh
+stop_ase_4tempi.sh

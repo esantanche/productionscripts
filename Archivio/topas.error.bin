@@ -1,0 +1,2 @@
+topas: Unable to initialize Spmi interface
+Spmi: Error 13 opening /dev/mem

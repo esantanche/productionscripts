@@ -1,0 +1,90 @@
+echo PROCESSING  master master3.dmp
+#  master master3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database master to "/sybased1/dump/master3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  master
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  CAP_TEST CAP_TEST3.dmp
+#  CAP_TEST CAP_TEST3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database CAP_TEST to "/sybased1/dump/CAP_TEST3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  CAP_TEST
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  ACT_CAP_SVIL ACT_CAP_SVIL3.dmp
+#  ACT_CAP_SVIL ACT_CAP_SVIL3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database ACT_CAP_SVIL to "/sybased1/dump/ACT_CAP_SVIL3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  ACT_CAP_SVIL
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  CAP_SVIL CAP_SVIL3.dmp
+#  CAP_SVIL CAP_SVIL3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database CAP_SVIL to "/sybased1/dump/CAP_SVIL3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  CAP_SVIL
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  MLC_CAP_SVIL MLC_CAP_SVIL3.dmp
+#  MLC_CAP_SVIL MLC_CAP_SVIL3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database MLC_CAP_SVIL to "/sybased1/dump/MLC_CAP_SVIL3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  MLC_CAP_SVIL
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  MLC_CAP_TEST MLC_CAP_TEST3.dmp
+#  MLC_CAP_TEST MLC_CAP_TEST3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database MLC_CAP_TEST to "/sybased1/dump/MLC_CAP_TEST3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  MLC_CAP_TEST
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  kyn_thr_auxdb kyn_thr_auxdb3.dmp
+#  kyn_thr_auxdb kyn_thr_auxdb3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database kyn_thr_auxdb to "/sybased1/dump/kyn_thr_auxdb3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  kyn_thr_auxdb
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  SIF_TEST SIF_TEST3.dmp
+#  SIF_TEST SIF_TEST3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database SIF_TEST to "/sybased1/dump/SIF_TEST3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  SIF_TEST
+sh /sybase/utility/zip-dump.sh
+echo PROCESSING  sybsystemprocs sybsystemprocs3.dmp
+#  sybsystemprocs sybsystemprocs3.dmp Sun Aug 22 23:31:50 DFT 2004
+isql -Usa -P capdevpwd  -S MX1_DEV_2  << EOF > /tmp/688176.err 
+dump database sybsystemprocs to "/sybased1/dump/sybsystemprocs3.dmp"
+go
+quit
+EOF
+cat /tmp/688176.err >> /tmp/688176.allerr
+echo ZIPPING  sybsystemprocs
+sh /sybase/utility/zip-dump.sh

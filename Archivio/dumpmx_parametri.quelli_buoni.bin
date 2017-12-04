@@ -1,0 +1,3 @@
+NUMERO_GIORNI_IN_LINEA=1
+DB_DA_NON_DUMPARE="tempdb","model","sybsystemdb","CAP_REPORT","kymx_dbadb"
+NUMERO_MINIMO_GIORNI_IN_LINEA=1

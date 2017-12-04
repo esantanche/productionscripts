@@ -1,0 +1,10 @@
+-----------------------------
+ampliamento_db      script per l'ampliamento dei db
+grant               script per dare il grant a tabelle
+info_db             script informativi sui db
+maint               script per la manutenzione della dir degli script
+
+
+------------------
+Scrivere gli script possibilmente in modo che mettano i loro dati da qualche altra parte
+per es. nella directory Dati

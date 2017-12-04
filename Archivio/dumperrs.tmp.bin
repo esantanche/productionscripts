@@ -1,0 +1,357 @@
+WARNING: In order to LOAD the master database, the SQL Server must run in
+single-user mode.  If the master database dump uses multiple volumes, you must
+execute sp_volchanged on another SQL Server at LOAD time in order to signal
+volume changes.
+Backup Server session id is:  126.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file /sybased1/dump/master3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'master0423514AE7 ' section number 1
+mounted on disk file '/sybased1/dump/master3.dmp'
+Backup Server: 4.58.1.1: Database master: 12116 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database master: 15290 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database master: 15300 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database master).
+Backup Server session id is:  129.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file /sybased1/dump/CAP_TEST3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'AP_TEST0423514AEC' section number 1
+mounted on disk file '/sybased1/dump/CAP_TEST3.dmp'
+Backup Server: 4.58.1.1: Database CAP_TEST: 48140 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 86640 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 135086 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 173398 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 222032 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 260344 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 308730 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 347290 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 395428 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 434236 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 482374 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 521182 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 569320 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 608128 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 656266 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 695074 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 743212 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 781712 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 830158 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 868470 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 917104 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 955416 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1003802 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1042362 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1090500 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1129308 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1177446 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1216254 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1264392 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1303200 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1341512 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1390146 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1428458 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1476788 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1515284 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1563422 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1602230 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1650368 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1689176 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1737314 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1776122 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1824260 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1863068 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1911206 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1949766 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 1998152 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2036464 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2077132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2129610 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2171518 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2213550 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2255582 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2297614 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2339646 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2381554 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2423586 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2476064 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2518096 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2560128 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2602100 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2644068 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2686100 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2728132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2770164 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2822642 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2864550 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2906582 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2948614 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 2990646 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3032678 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3074586 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3116618 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3169096 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3211128 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3253160 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3295132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3337100 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3379132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3421164 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3463196 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3505104 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3557582 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3599614 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3641646 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3683678 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3725710 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3767618 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3809650 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3851682 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3904160 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3946192 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 3988164 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4030132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4072164 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4114444 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4157716 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4200988 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4244260 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4287532 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4330804 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database CAP_TEST: 4340534 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database CAP_TEST).
+Backup Server session id is:  133.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file
+/sybased1/dump/ACT_CAP_SVIL3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'AP_SVIL0423514EEC' section number 1
+mounted on disk file '/sybased1/dump/ACT_CAP_SVIL3.dmp'
+Backup Server: 4.58.1.1: Database ACT_CAP_SVIL: 748 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database ACT_CAP_SVIL: 1086 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database ACT_CAP_SVIL: 1428 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database ACT_CAP_SVIL: 1698 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database ACT_CAP_SVIL: 1708 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database ACT_CAP_SVIL).
+Backup Server session id is:  136.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file /sybased1/dump/CAP_SVIL3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'AP_SVIL0423514EF3' section number 1
+mounted on disk file '/sybased1/dump/CAP_SVIL3.dmp'
+Backup Server: 4.58.1.1: Database CAP_SVIL: 48140 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 96278 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 144416 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 193050 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 231362 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 279872 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 328134 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 376272 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 415080 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 463218 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 511356 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 559618 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 598302 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 646440 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 695074 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 743212 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 791350 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 830158 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 878296 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 926434 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 974944 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1013380 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1061518 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1110152 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1158290 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1196974 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1245236 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1293254 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1341392 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1380200 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1428338 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1476788 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1525110 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1573248 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1612056 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1660194 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1708332 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1756470 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1795278 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1843416 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1892050 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1940188 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 1978564 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2027134 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2077132 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2119040 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2171518 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2213550 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2255582 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2308060 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2350092 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2392124 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2444602 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2486634 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2539112 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2581144 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2623052 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2675654 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2717562 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2770164 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2812072 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2854104 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2906582 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2948614 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 2990646 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3043124 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3085156 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3137634 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3179666 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3221574 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3274176 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3316084 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3358116 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3410594 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3452626 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3505104 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3547136 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3589168 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3641646 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3683678 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3736156 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3778188 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3820096 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3872698 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3914606 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 3956638 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4009116 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4051148 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4103626 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4146898 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4190170 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4233442 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4287532 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4330804 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4374076 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4417348 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4471438 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4514710 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4557982 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4601254 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database CAP_SVIL: 4618404 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database CAP_SVIL).
+Backup Server session id is:  140.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file
+/sybased1/dump/MLC_CAP_SVIL3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'AP_SVIL04236001F2' section number 1
+mounted on disk file '/sybased1/dump/MLC_CAP_SVIL3.dmp'
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 4828 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 21946 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 29596 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 29934 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 30276 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 30614 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 30956 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 31294 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 31636 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 31974 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 32316 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 32654 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 32996 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 33182 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database MLC_CAP_SVIL: 33192 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database MLC_CAP_SVIL).
+Backup Server session id is:  143.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file
+/sybased1/dump/MLC_CAP_TEST3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'AP_TEST0423600206' section number 1
+mounted on disk file '/sybased1/dump/MLC_CAP_TEST3.dmp'
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 780 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 1470 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 2028 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 2366 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 2708 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 3046 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 3388 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 3726 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 4068 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 4406 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 4748 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 5086 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 5428 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 5766 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database MLC_CAP_TEST: 5814 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database MLC_CAP_TEST).
+Backup Server session id is:  0.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file
+/sybased1/dump/kyn_thr_auxdb3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'r_auxdb0423600216' section number 1
+mounted on disk file '/sybased1/dump/kyn_thr_auxdb3.dmp'
+Backup Server: 4.58.1.1: Database kyn_thr_auxdb: 1584 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database kyn_thr_auxdb: 1594 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database kyn_thr_auxdb).
+Backup Server session id is:  6.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file /sybased1/dump/SIF_TEST3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'IF_TEST0423600218' section number 1
+mounted on disk file '/sybased1/dump/SIF_TEST3.dmp'
+Backup Server: 4.58.1.1: Database SIF_TEST: 4856 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 22334 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 39568 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 56918 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 74268 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 91618 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 100528 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 101208 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 102226 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 103248 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database SIF_TEST: 103592 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database SIF_TEST).
+Backup Server session id is:  9.  Use this value when executing the
+'sp_volchanged' system stored procedure after fulfilling any volume change
+request from the Backup Server.
+Backup Server: 4.41.1.1: Creating new disk file
+/sybased1/dump/sybsystemprocs3.dmp.
+Backup Server: 6.28.1.1: Dumpfile name 'emprocs0423600236' section number 1
+mounted on disk file '/sybased1/dump/sybsystemprocs3.dmp'
+Backup Server: 4.58.1.1: Database sybsystemprocs: 13480 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database sybsystemprocs: 48694 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database sybsystemprocs: 81336 kilobytes DUMPed.
+Backup Server: 4.58.1.1: Database sybsystemprocs: 81482 kilobytes DUMPed.
+Backup Server: 3.43.1.1: Dump phase number 1 completed.
+Backup Server: 3.43.1.1: Dump phase number 2 completed.
+Backup Server: 3.43.1.1: Dump phase number 3 completed.
+Backup Server: 4.58.1.1: Database sybsystemprocs: 81492 kilobytes DUMPed.
+Backup Server: 3.42.1.1: DUMP is complete (database sybsystemprocs).

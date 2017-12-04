@@ -1,0 +1,96 @@
+OKOKOK DA CAMBIARE dumpmx_alldb.sh    il nuovo vg si chiamera' sybasevg?
+OKOKOKO dumpmx_1shot_singolodb.sh il nuovo vg si chiamera' sybasevg?
+OKOKOKOK sysbcp.sh   il nuovo vg si chiamera' sybasevg?
+OKOKOKOK dumpmx_singolodb.sh
+OKOKOK db-threshold-su-tempdb.sh
+OKOKOKK kill_sessions.sh
+OKOKOKO dumpmx_troppo_pieno.sh
+OKOKOK     loadmx_in_crontab.sh
+OKOKOKOK  checkpointalldb.sh
+OKOKOKOK  dbccmx_alldb.sh
+OKOKOK  dbccmx_singolodb.sh
+OKOKOK loadmx_preservando_sysusers.sh
+OKOKOK start_ase.sh
+OKOKOK  start_ase_singleuser.sh
+OKOKOK stop_ase_4tempi.sh
+OKOKOK kill_all_pid.sh
+OKOKO kill_all_sessions.sh
+
+--
+DAFARE
+DAFARE
+--
+
+checkpoint_a_db_for_a_time.sh
+clean_sunday_dir.sh
+connections-report-legenda
+connections-report.sh
+db-prerequisiti-recreate-db.sh
+db-pulizia-tempdb.sh
+db-report-giornaliero.sh
+db-tempdb-alert.sh
+dumpmx_tempo_massimo.sh
+grant-select-to-user-in-crontab.sh
+grant-select-to-user.sh
+lock-sleep-finder.sh
+loganalizer-aseserver.sh
+loganalizer-backupserver.sh
+logtruncator.sh
+reorgmx_alldb.sh
+reorgmx_parametri
+reorgmx_singolodb.sh
+repo-change.sh
+repo-spazi-liberi-vg-spiegazioni
+repo-spazi-liberi-vg.sh
+report-processi-locks.sh
+report-sender.sh
+
+
+allinea_analisidir.sh
+allinea_uno_script.sh
+ampliamenti_a_gogo.sh
+analisi-dir
+archivio
+bcpmx_alldb.sh
+bcpmx_parametri
+bcpmx_singolodb.sh
+check_list_controllo_script_per_nuovi_file_system
+ciccio
+cronner.sh
+crontester.sh
+data
+db-ampliamento-dati.sh
+db-ampliamento-misto.sh
+db-check-dimensioni-2-db.sh
+db-singolo-space-full-report.sh
+db-singolo-space-report-con-dataora.sh
+db-singolo-space-report-media-eval.sh
+db-singolo-space-report.sh
+db-space-report.sh
+db-tempdb-study.sh
+ddlmx_alldb.sh
+ddlmx_parametri
+dumpmx_1shot_alldb.sh
+dumpmx_parametri
+fixsegmap_alldb.sh
+fixsegmap_singolodb.sh
+kill_per_troppe_connessioni.sh
+mon-mail-tempdb-conn.sh
+mon-numero-processi.sh
+nmon-study
+nohup.out
+out
+riduzione-plf.sh
+runisql.sh
+stored_procedures
+sviluppo-script
+sysbcp-leggimi
+sysbcp-tables
+sysbcp.sh
+sysmon-cleanup.sh
+sysmon.sh
+sysmon.sql
+sysmondir
+test-mail.sh
+thrlist.sh
+thrproc.sh

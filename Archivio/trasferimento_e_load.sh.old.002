@@ -1,0 +1,184 @@
+#!/bin/sh 
+
+. /home/sybase/.profile
+
+. /sis/SIS-AUX-Envsetting.Sybase.sh
+
+# Parametri ritornati da SIS-AUX-Envsetting.Sybase.sh
+# UTILITY_DIR
+# SAUSER
+# SAPWD
+# NOTSAUSER
+# NOTSAPWD
+# ASE_NAME
+
+DUMP_DIR=$PATH_DUMP_DIR
+INIZIO_ORE=$(/usr/bin/date +%H)
+INIZIO_MIN=$(/usr/bin/date +%M)
+
+function segnalazione_errore {
+
+   FINE_ORE=$(/usr/bin/date +%H)
+   FINE_MIN=$(/usr/bin/date +%M)
+
+   sh $UTILITY_DIR/centro_log_operazioni.sh TRASF $NOMEDB 1 $INIZIO_ORE $INIZIO_MIN $FINE_ORE $FINE_MIN
+
+   echo "Subject: [TRASF] ERRORE NEL TRASFERIMENTO SU "$ASE_NAME >  /tmp/trasf.mail
+   echo "To: dba@kyneste.com"  >> /tmp/trasf.mail
+   echo "Si e' verificato un errore sul trasferimento sull'ASE "$ASE_NAME >> /tmp/trasf.mail
+   echo "sulla macchina "`hostname` >> /tmp/trasf.mail
+   echo "Nome db "$NOMEDB >> /tmp/trasf.mail
+   echo "Fase andata in errore "$FASE_ERRORE >> /tmp/trasf.mail
+   echo "    " >> /tmp/trasf.mail
+   #/usr/sbin/sendmail -f trasferr@kyneste.com esantanche@tim.it < /tmp/trasf.mail
+   /usr/sbin/sendmail -f trasferr@kyneste.com dba@kyneste.com < /tmp/trasf.mail
+   rm -f /tmp/trasf.mail
+
+}
+
+function datora {
+   echo $(date +%Y%m%d-%H%M)
+}
+
+LOG=$UTILITY_DIR/out/trasferimento_e_load.log
+
+echo $(datora) provo a scrivere data e ora
+
+# Un controllo che esistano i volume group sybase. Non fa mai male
+if [ $(lsvg -o | grep $SYBASE_VG_NAME | wc -l) -eq 0 ]
+then 
+        exit 0;
+fi
+
+if [ $USER != sybase ] ; then
+   echo Eseguire come sybase
+   #segnalazione_errore
+   exit 1
+fi
+
+NOMEDB=CAP_REPORT
+#NOMEDB=kymx_dbadb
+#NOMEDUMP=$2 
+PATH_FILE_NOTIFICA=/tmp/notifica_dumpmx_1shot_singolodb
+PATH_DESTINAZIONE_DUMP=/syb_bkp_vari
+
+echo $(datora) Sono nello script trasferimento_e_load.sh
+
+# cosa va fatto
+# dbcc del solo cap_report
+
+# Cancello il file di notifica
+rm -f $PATH_FILE_NOTIFICA
+
+if [ -s $PATH_FILE_NOTIFICA ] ; then
+   echo ERRORE =======================================
+   echo Non riesco a cancellare il file di notifica
+   FASE_ERRORE="Cancellazione file di notifica"
+   segnalazione_errore
+   exit 1
+fi
+
+# Attendo DURATA_MINUTI minuti che appaia il file di notifica
+DURATA_MINUTI=90
+countdown_minuti=$DURATA_MINUTI
+echo $(datora) Avvio il countdown di $countdown_minuti minuti 
+while [ $countdown_minuti -gt 0 -a ! -s $PATH_FILE_NOTIFICA ]
+do
+   echo $(/usr/bin/date +%Y%m%d-%H%M) countdown_minuti $countdown_minuti  >> /tmp/trace_trasferimento_e_load
+   sleep 60
+   countdown_minuti=`expr $countdown_minuti \- 1`
+done
+
+# Aspetto un pochino che finisca di scrivere il file 
+sleep 60
+
+if [ ! -s $PATH_FILE_NOTIFICA ] ; then
+   echo ERRORE =======================================
+   echo Non arriva il file $PATH_FILE_NOTIFICA
+   FASE_ERRORE="Attesa del file di notifica"
+   segnalazione_errore
+   exit 1;
+fi
+
+SI_TRATTA_DI_CAP_MXPROD=`grep CAP_MXPROD $PATH_FILE_NOTIFICA | wc -l`
+
+echo Si tratta del dump di cap_mxprod SI_TRATTA_DI_CAP_MXPROD=$SI_TRATTA_DI_CAP_MXPROD
+
+if [ $SI_TRATTA_DI_CAP_MXPROD -eq 0 ] ; then
+   echo ERRORE =======================================
+   echo "Che me stai a da, non e' il dump di CAP_MXPROD!"
+   FASE_ERRORE="Controllo che sia CAP_MXPROD"
+   segnalazione_errore
+   exit 1;
+fi
+
+#######################################################################
+# Adesso devo fare l'scp delle stripe
+
+echo $(datora) Avvio scp delle stripe verso $PATH_DESTINAZIONE_DUMP
+for s in `grep STRIPE $PATH_FILE_NOTIFICA | grep -v NOMEPRIMASTRIPE | awk '{ print $2; }'`
+do
+   echo "    Avvio scp della stripe "$s
+   scp $s $PATH_DESTINAZIONE_DUMP
+done
+
+#####################################################################
+# Fase del load
+
+NOMEPRIMASTRIPE=`grep NOMEPRIMASTRIPE $PATH_FILE_NOTIFICA | awk '{ print $2; }'`
+echo $(datora) Avvio il load su $NOMEDB con prima stripe $NOMEPRIMASTRIPE
+#echo Nome della prima stripe $NOMEPRIMASTRIPE
+#echo Lancio il load
+
+sh $UTILITY_DIR/loadmx_in_crontab_striped.multistripe.sh $NOMEDB $PATH_DESTINAZIONE_DUMP/$NOMEPRIMASTRIPE
+
+###################################################################
+# Fase del dbcc
+
+echo $(datora) Avvio il dbcc del db $NOMEDB
+#sh $UTILITY_DIR/dbccmx_singolodb.sh $NOMEDB     #### CORREGGERE
+
+FILE_ERRORI=$UTILITY_DIR/out/errori_ultima_esecuzione_dbcc
+
+#echo =======================================================
+#echo Controllare qui che il dbcc sia andato bene
+#tail -5 $UTILITY_DIR/out/errori_ultima_esecuzione_dbcc
+
+#echo Cancello il file $PATH_FILE_NOTIFICA
+#echo per evitare che venga trovato in altre occasioni di utilizzo di questo
+#echo script e faccia partire erroneamente il load
+rm -f $PATH_FILE_NOTIFICA
+
+ERRORIDBCC=`grep "ERROREDBCC" $FILE_ERRORI | wc -l`
+ERRORIDBCC=0   # CORREGGERE
+
+if [ $ERRORIDBCC -gt 0 ] ; then
+   echo ERRORE =======================================
+   echo Errore nel dbcc di $NOMEDB da esaminare
+   FASE_ERRORE="Dbcc in errore, scp e load dovrebbero essere ok"
+   segnalazione_errore
+fi
+
+FINE_ORE=$(/usr/bin/date +%H)
+FINE_MIN=$(/usr/bin/date +%M)
+
+echo $(datora) Termine operazioni e scrittura log centralizzato
+echo =======================================================
+
+sh $UTILITY_DIR/centro_log_operazioni.sh TRASF $NOMEDB 0 $INIZIO_ORE $INIZIO_MIN $FINE_ORE $FINE_MIN
+
+echo "Subject: [TRASF] Forse tutto ok per il trasferimento su "$ASE_NAME >  /tmp/trasf.mail
+echo "To: dba@kyneste.com"  >> /tmp/trasf.mail
+echo "Dovrebbe essere tutto ok per il trasferimento su ASE "$ASE_NAME >> /tmp/trasf.mail
+echo "sulla macchina "`hostname` >> /tmp/trasf.mail
+echo "Script trasferimento_e_load.sh" >> /tmp/trasf.mail
+echo "Verificare in particolare che sia arrivato il messaggio del load" >> /tmp/trasf.mail
+echo "e quello del dump su pridb" >> /tmp/trasf.mail 
+echo "Nome db "$NOMEDB >> /tmp/trasf.mail
+echo "    " >> /tmp/trasf.mail
+#/usr/sbin/sendmail -f trasfok@kyneste.com esantanche@tim.it < /tmp/trasf.mail
+/usr/sbin/sendmail -f trasfok@kyneste.com dba@kyneste.com < /tmp/trasf.mail
+rm -f /tmp/trasf.mail
+
+exit
+

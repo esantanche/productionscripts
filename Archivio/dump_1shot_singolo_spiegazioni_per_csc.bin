@@ -1,0 +1,18 @@
+Per il csc:
+questo messaggio vi viene inviato perche' Murex ha chiesto il dump di un database 
+ad un'ora improponibile per fare il dump manualmente :-))
+Quindi il dump e' stato programmato in modo automatico con uno script.
+Il server e il database di cui e' stato fatto il dump sono indicati sopra.
+
+Attenzione: il messaggio arriva sia se il dump e' andato bene che in caso contrario, leggete
+bene. Se il dump e' fallito dovete aspettare che il dba di ronda al momento faccia il
+dump manualmente e vi dia l'ok.
+
+Il numero del tt di riferimento potreste trovarlo da qualche parte in questo messaggio :-)
+Stele di Rosetta a disposizione per decrittazione messaggi troppo ostici da dba :-)))
+
+Se il dump e' arrivato con esito positivo puo' ben darsi che il cliente lo voglia
+sapere subito....             
+
+Buone indagini, in bocca al lupo.... :-))
+

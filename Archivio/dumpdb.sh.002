@@ -1,0 +1,74 @@
+#!/bin/sh -x
+#
+
+#DATA=$(/usr/bin/date +%d)
+
+# Dump a rotazione per gli ultimi 15 gg
+# Corrado: 3 giugno 2003
+
+if [ ! -f "/tmp/progr.txt" ];
+        then
+        echo "0" > /tmp/progr.txt
+fi
+
+ONE=$(cat /tmp/progr.txt)
+DATA=`expr $ONE + 1`
+
+if [ $DATA -gt 15 ];
+        then
+        DATA=0
+fi
+
+echo $DATA > /tmp/progr.txt
+
+
+# dump Database master
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database master to "/sybased1/dump/master$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/master$DATA.dmp
+
+# dump Database sybsystemprocs
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database sybsystemprocs to "/sybased1/dump/sybsystemprocs$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/sybsystemprocs$DATA.dmp
+
+# dump Database CAP_SVIL
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database CAP_SVIL to "/sybased1/dump/CAP_SVIL$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/CAP_SVIL$DATA.dmp
+
+# dump Database CAP_TEST
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database CAP_TEST to "/sybased1/dump/CAP_TEST$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/CAP_TEST$DATA.dmp
+
+# dump Database ACT_CAP_SVIL
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database ACT_CAP_SVIL to "/sybased1/dump/ACT_CAP_SVIL$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/ACT_CAP_SVIL$DATA.dmp
+
+# dump Database MLC_CAP_SVIL
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database MLC_CAP_SVIL to "/sybased1/dump/MLC_CAP_SVIL$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/MLC_CAP_SVIL$DATA.dmp
+
+# dump Database MLC_CAP_TEST
+isql -Usa -Pcapdevpwd -SMX1_DEV_2 -e << EOF
+dump database MLC_CAP_TEST to "/sybased1/dump/MLC_CAP_TEST$DATA.dmp"
+go
+EOF
+gzip -f -9 /sybased1/dump/MLC_CAP_TEST$DATA.dmp
+
+# 17.7.2003 aggiunti ACT_CAP_SVIL, MLC_CAP_SVIL, MLC_CAP_TEST E.Santanche'
